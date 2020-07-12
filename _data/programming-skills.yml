@@ -1,0 +1,18 @@
+- name: Python 3.x
+  percentage: 80
+  color: dark
+
+- name: C/C++/C#
+  percentage: 70
+  color: warning
+
+- name: SQL
+  percentage: 60
+  color: danger
+
+- name: HTML5+CSS3
+  percentage: 90
+  color: info
+
+- name: JavaScript+JQuery
+  percentage: 90

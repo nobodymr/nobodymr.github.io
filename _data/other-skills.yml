@@ -1,0 +1,11 @@
+- name: Lunacy
+  percentage: 95
+  color: info
+
+- name: Scribus
+  percentage: 90
+  color: success
+
+- name: Renpy
+  percentage: 80
+  color: dark

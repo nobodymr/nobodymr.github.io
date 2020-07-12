@@ -1,0 +1,15 @@
+- name: Django
+  percentage: 90
+  color: success
+
+- name: Jekyll
+  percentage: 70
+  color: warning
+
+- name: Kivy
+  percentage: 30
+  color: danger
+
+- name: WPF
+  percentage: 30
+  color: info
