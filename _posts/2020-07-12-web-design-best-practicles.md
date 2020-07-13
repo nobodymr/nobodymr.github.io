@@ -3,7 +3,7 @@ title: Web Design Best Practicles
 tags: [Web Design, Best Practicles]
 style: fill
 color: primary
-description: Write post description here, or it will be the first 25 words of the post's body.
+description: Tips & tricks & notes to create beautiful smart site
 ---
 
 # Using whitespaces
