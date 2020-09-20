@@ -2,6 +2,14 @@
   percentage: 95
   color: info
 
+- name: Krita
+  percentage: 80
+  color: warning
+
+- name: Affinity Designer
+  percentage: 40
+  color: danger
+
 - name: Scribus
   percentage: 90
   color: success
