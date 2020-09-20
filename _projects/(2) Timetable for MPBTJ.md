@@ -1,6 +1,6 @@
 ---
 layout: project
-name: MPBTJ.Timetable for Android
+name: MPBTJ Timetable for Android
 tools: [Android, Kodular IO, HTML5, Bootstrap, Icons8]
 image: ../assets/projects/timetable.png
 ---
