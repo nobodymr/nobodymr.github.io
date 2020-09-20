@@ -6,6 +6,10 @@
   percentage: 70
   color: warning
 
+- name: Node.js
+  percentage: 40
+  color: dark
+
 - name: Kivy
   percentage: 30
   color: danger
