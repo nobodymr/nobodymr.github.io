@@ -11,7 +11,7 @@ permalink: /
 			<div class="card-body">
 				<div class="row">
 					<h1 class="col-md-5 text-primary mb-5">
-						<strong class="align-self-center">SERVICES</strong>
+						<strong class="my-auto">SERVICES</strong>
 					</h1>
 					<ul class="col-md-7 list-unstyled mt-3 mb-4">
 						<li class="h3">WEB</li>
