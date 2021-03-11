@@ -28,7 +28,7 @@ permalink: /
 						<li>Book creation</li>
 					</ul>
 				</div>
-				<span class="text-muted mb-4">P.S. I do free services too :)</span>
+				<p class="text-muted mb-4">P.S. I do free services too :)</p>
 				<a class="btn btn-lg btn-block btn-outline-primary" href="mailto:{{ site.author.email }}">Contact</a>
 			</div>
 		</div>
