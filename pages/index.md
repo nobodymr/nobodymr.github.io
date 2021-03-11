@@ -9,17 +9,19 @@ permalink: /
 	<div class="col-12">
 		<div class="card mb-4 box-shadow">
 			<div class="card-body">
-				<div class="row">
-					<h1 class="col-md-5 text-primary mb-5">
-						<strong class="my-auto">SERVICES</strong>
-					</h1>
-					<ul class="col-md-7 list-unstyled mt-3 mb-4">
+				<h1 class="text-primary mb-5">
+					<strong class="my-auto">SERVICES</strong>
+				</h1>
+				<div class="row mt-3 mb-4">
+					<ul class="col-md-6 list-unstyled">
 						<li class="h3">WEB</li>
 						<li>Modern, secured site creation</li>
 						<li>Corporate EMAIL setting</li>
 						<li>Site & EMAIL administration</li>
 						<li>Technical support for projects</li>
-						<li class="mt-5 h3">OTHERS</li>
+					</ul>
+					<ul class="col-md-6 list-unstyled">
+						<li class="h3">OTHERS</li>
 						<li>Multiplatform programs & Games Development</li>
 						<li>Making documentation for projects</li>
 						<li>Logo creation</li>
