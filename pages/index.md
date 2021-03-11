@@ -9,7 +9,10 @@ permalink: /
 	<div class="col-12">
 		<div class="card mb-4 box-shadow">
 			<div class="card-body">
-				<h1 class="text-primary mb-5"><b>SERVICES</b></h1>
+				<h1 class="text-primary mb-5">
+					<b>SERVICES</b>
+					<small class="text-muted">I do free services too :)</small>
+				</h1>
 				<ul class="list-unstyled mt-3 mb-4">
 					<li class="h3">WEB</li>
 					<li>Modern, secured site creation</li>
