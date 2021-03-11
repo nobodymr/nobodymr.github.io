@@ -11,7 +11,6 @@ permalink: /
 			<div class="card-body">
 				<h1 class="text-primary mb-5">
 					<b>SERVICES</b>
-					<small class="text-muted">I do free services too :)</small>
 				</h1>
 				<ul class="list-unstyled mt-3 mb-4">
 					<li class="h3">WEB</li>
@@ -27,6 +26,7 @@ permalink: /
 					<li>Video Edits</li>
 					<li>Book creation</li>
 				</ul>
+				<small class="text-muted mb-4">P.S. I do free services too :)</small>
 				<a class="btn btn-lg btn-block btn-outline-primary" href="mailto:{{ site.author.email }}">Contact</a>
 			</div>
 		</div>
