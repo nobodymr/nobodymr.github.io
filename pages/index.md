@@ -10,10 +10,10 @@ permalink: /
 		<div class="card mb-4 box-shadow">
 			<div class="card-body">
 				<div class="row">
-					<h1 class="col-sm-6 text-primary mb-5">
-						<b>SERVICES</b>
+					<h1 class="col-md-5 text-primary mb-5">
+						<strong class="align-self-center">SERVICES</strong>
 					</h1>
-					<ul class="col-sm-6 list-unstyled mt-3 mb-4">
+					<ul class="col-md-7 list-unstyled mt-3 mb-4">
 						<li class="h3">WEB</li>
 						<li>Modern, secured site creation</li>
 						<li>Corporate EMAIL setting</li>
